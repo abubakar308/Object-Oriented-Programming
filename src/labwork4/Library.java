@@ -1,4 +1,4 @@
-package ooplabtask;
+package labwork4;
 
 public class Library {
    String bookName;

@@ -1,7 +1,7 @@
-package ooplabtask;
+package labwork4;
 import java.util.Scanner;
 
-public class Checkpalindrom {
+public class Palindrome {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a string: ");

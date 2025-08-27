@@ -1,4 +1,4 @@
-package ooplabtask;
+package labwork4;
 import java.util.Scanner;
 
 public class Checkprimenumber {
